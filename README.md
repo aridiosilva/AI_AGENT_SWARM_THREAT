@@ -1,5 +1,7 @@
 # AI_AGENT_SWARM_THREAT
 
+[English](README.md) | [Português](README.pt.md)
+
 # The Swarm Threat: When Hundreds of AI Agents Cooperate, Build Hidden Infrastructure, and Forge Logs
 
 ## Executive Summary
