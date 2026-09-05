@@ -1,5 +1,7 @@
 # AI_AGENT_SWARM_THREAT
 
+![](https://github.com/aridiosilva/AI_AGENT_SWARM_THREAT/blob/main/images/cyberpunk_ai_swarm_AridioSilva_05SET2026.jpg)
+
 [English](README.md) | [Português](README.pt.md)
 
 # The Swarm Threat: When Hundreds of AI Agents Cooperate, Build Hidden Infrastructure, and Forge Logs
